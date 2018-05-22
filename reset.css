@@ -46,3 +46,82 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body, html {
+	display: block;
+	font-family: Serif;
+	margin-left: 20%;
+}
+.icons {
+	display: block;
+	position: relative;
+	height: 200px;
+	margin-left: 75%;
+}
+.google {
+	vertical-align: center;
+	height: 125px;
+}
+.grafika {
+	background-color: white;
+	border: none;
+	font-size: 14px;
+	font-family: Serif;
+}
+.grafika:hover {
+	background-color: #7cb847;
+	color: white;
+	font-weight: bold;
+}
+.gmail {
+	background-color: white;
+	border: none;
+	font-size: 14px;
+	font-family: Serif;
+}
+.gmail:hover {
+	background-color: #7cb847;
+	color: white;
+	font-weight: bold;
+}
+.searching {
+	font-size: 20px; 
+	width:1000px; 
+	height: 50px; 
+	border-style: solid;
+ 	border-color: #000000; 
+	border-width: 1px" 
+}
+.traf {
+	background-color: #edeaee;
+	width: 160px;
+	height: 40px;
+	border: none;
+	font-weight: bold;
+	color: #9e8ba3;
+	font-size: 14px;
+	font-family: Serif;
+}
+.traf:hover {
+	background-color: #408080;
+	color: white;
+	font-weight: bold;
+}
+.szukaj {
+	background-color: #edeaee;
+	width: 160px;
+	height: 40px;
+	border: none;
+	font-weight: bold;
+	color: #9e8ba3;
+	font-size: 14px;
+	font-family: Serif;
+}
+.szukaj:hover {
+	background-color: #408080;
+	color: white;
+	font-weight: bold;
+}
+.buttons {
+	height: 60px;
+}
