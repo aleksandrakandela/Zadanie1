@@ -1,0 +1,23 @@
+.main {
+	background: #ccff66;
+	padding: 5px;
+	text-align: center;
+	font-family: Trebuchet MS;
+}
+
+.links {
+	display: inline-block;
+	background: #ffff99;
+	font-family: Trebuchet MS;	
+	padding: 5px;
+	margin-right: 6px;
+	margin-bottom: 7px;
+	line-height: 1.6;
+	border-style: solid;
+	border-color: #f4f4f4;
+}
+
+.textcrawler {
+	font-size: 50px;
+	font-family: Trebuchet MS;
+}
